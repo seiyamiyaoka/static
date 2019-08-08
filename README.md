@@ -1,2 +1,3 @@
 - 4から再開
 - jenkins user pw 自分のpw
+- Set up pipeline for AWSからスタート
